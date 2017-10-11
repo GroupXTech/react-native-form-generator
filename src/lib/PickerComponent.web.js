@@ -5,7 +5,7 @@ import ReactNative from 'react-native';
 let { View, StyleSheet, TextInput, Text, Picker} = ReactNative;
 import {Field} from '../lib/Field';
 
-var PickerItem = Picker.Item;
+//var PickerItem = Picker.Item;
 
   export class PickerComponent extends React.Component{
     constructor(props){
